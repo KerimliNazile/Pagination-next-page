@@ -1,0 +1,15 @@
+table, th, td{
+    border: 2px solid rgb(173, 173, 229);
+}
+
+button{
+   
+    color: rgb(74, 4, 139);
+    margin-top: 40px;
+    width: 80px;
+    
+}
+.bot{
+    border: 2px solid rgb(61, 13, 139);
+    gap: 30px;
+}
